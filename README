@@ -1,1 +1,4 @@
+Only on Windows
+
+
 csc -out:reg.exe -platform:x64 *.cs 
