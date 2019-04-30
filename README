@@ -1,4 +1,4 @@
 Only on Windows
-
+Read and write licence keys to windows registry.
 
 csc -out:reg.exe -platform:x64 *.cs 
